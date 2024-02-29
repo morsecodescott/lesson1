@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Scott Morse 1",
 	"description": "Scott's test description",
-	"keywords": [ "descriptive", "related", "freedcodecamp" ],
+	"keywords": [ "descriptive", "related", "freecodecamp" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
